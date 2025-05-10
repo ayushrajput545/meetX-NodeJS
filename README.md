@@ -152,7 +152,7 @@ Authorization: Bearer YOUR_JWT_TOKEN
 
 ## 📬 Postman Collection
 
-✅ Download: [`Activity-Booking-App.postman_collection.json`](https://.postman.co/workspace/My-Workspace~f1bbd292-e863-415a-8971-fc1f3605013b/collection/37968337-4fc0f524-4df8-428b-8040-5e31c2ec835a?action=share&creator=37968337)
+✅ Download: [`Activity-Booking-App.postman_collection.json`](https://postman.co/workspace/My-Workspace~f1bbd292-e863-415a-8971-fc1f3605013b/collection/37968337-4fc0f524-4df8-428b-8040-5e31c2ec835a?action=share&creator=37968337)
 
 ---
 
